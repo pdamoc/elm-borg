@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "summary": "Elm assimilation tools",
+    "repository": "https://github.com/pdamoc/elm-borg.git",
+    "license": "BSD3",
+    "source-directories": [
+        ".",
+        "src"
+    ],
+    "exposed-modules": [],
+    "native-modules": true,
+    "dependencies": {
+        "elm-community/json-extra": "1.0.0 <= v < 2.0.0",
+        "elm-lang/core": "4.0.3 <= v < 5.0.0",
+        "elm-lang/html": "1.1.0 <= v < 2.0.0",
+        "pdamoc/elm-css": "3.0.2 <= v < 4.0.0"
+    },
+    "elm-version": "0.17.1 <= v < 0.18.0"
+}
